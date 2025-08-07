@@ -1,0 +1,60 @@
+# ===============================
+# Node.js & Express (Backend)
+# ===============================
+node_modules/
+node_modules/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# In case you're using logs or temp files
+logs/
+*.log
+tmp/
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional build folder
+dist/
+build/
+
+# ===============================
+# React (Frontend in /client)
+# ===============================
+client/node_modules/
+client/.env
+client/.env.local
+client/.env.development.local
+client/.env.test.local
+client/.env.production.local
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+client/build/
+
+# ===============================
+# OS & Editor Specific
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ===============================
+# MongoDB dump (if exporting/importing)
+# ===============================
+dump/
+# If using Clerk
+.clerk/
+
+# If using Inngest
+inngest/

@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 2,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger"
+  },
+  {
+    "id": 3,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoyevsky"
+  },
+  {
+    "id": 4,
+    "title": "Catch-22",
+    "author": "Joseph Heller"
+  },
+  {
+    "id": 5,
+    "title": "Adventures of Tom Sawyer",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 6,
+    "title": "Moby-Dick",
+    "author": "Herman Melville"
+  },
+  {
+    "id": 7,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "id": 8,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee"
+  },
+  {
+    "id": 9,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck"
+  },
+  {
+    "id": 10,
+    "title": "Lolita",
+    "author": "Vladimir Nabokov"
+  },
+  {
+    "id": 11,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 12,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "id": 13,
+    "title": "Brave New World",
+    "author": "Aldous Huxley"
+  },
+  {
+    "id": 14,
+    "title": "Ulysses",
+    "author": "James Joyce"
+  },
+  {
+    "id": 15,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë"
+  },
+  {
+    "id": 16,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë"
+  },
+  {
+    "id": 17,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoyevsky"
+  },
+  {
+    "id": 18,
+    "title": "Great Expectations",
+    "author": "Charles Dickens"
+  },
+  {
+    "id": 19,
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf"
+  },
+  {
+    "id": 20,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 21,
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "id": 22,
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner"
+  },
+  {
+    "id": 23,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll"
+  },
+  {
+    "id": 24,
+    "title": "Frankenstein",
+    "author": "Mary Shelley"
+  },
+  {
+    "id": 25,
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad"
+  },
+  {
+    "id": 26,
+    "title": "Middlemarch",
+    "author": "George Eliot"
+  },
+  {
+    "id": 27,
+    "title": "Animal Farm",
+    "author": "George Orwell"
+  },
+  {
+    "id": 28,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes"
+  },
+  {
+    "id": 29,
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut"
+  },
+  {
+    "id": 30,
+    "title": "Les Misérables",
+    "author": "Victor Hugo"
+  },
+  {
+    "id": 31,
+    "title": "Harry Potter and the Philosopher’s Stone",
+    "author": "J.K. Rowling"
+  },
+  {
+    "id": 32,
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis"
+  },
+  {
+    "id": 33,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 34,
+    "title": "Lord of the Flies",
+    "author": "William Golding"
+  },
+  {
+    "id": 35,
+    "title": "Invisible Man",
+    "author": "Ralph Ellison"
+  },
+  {
+    "id": 36,
+    "title": "The Golden Bowl",
+    "author": "Henry James"
+  },
+  {
+    "id": 37,
+    "title": "Pale Fire",
+    "author": "Vladimir Nabokov"
+  },
+  {
+    "id": 38,
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell"
+  },
+  {
+    "id": 39,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas"
+  },
+  {
+    "id": 40,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams"
+  },
+  {
+    "id": 41,
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert"
+  },
+  {
+    "id": 42,
+    "title": "Vanity Fair",
+    "author": "William Makepeace Thackeray"
+  },
+  {
+    "id": 43,
+    "title": "The Trial",
+    "author": "Franz Kafka"
+  },
+  {
+    "id": 44,
+    "title": "Absalom, Absalom!",
+    "author": "William Faulkner"
+  },
+  {
+    "id": 45,
+    "title": "The Call of the Wild",
+    "author": "Jack London"
+  },
+  {
+    "id": 46,
+    "title": "Emma",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 47,
+    "title": "Beloved",
+    "author": "Toni Morrison"
+  },
+  {
+    "id": 48,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 49,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger"
+  },
+  {
+    "id": 50,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoyevsky"
+  },
+  {
+    "id": 51,
+    "title": "Catch-22",
+    "author": "Joseph Heller"
+  },
+  {
+    "id": 52,
+    "title": "Adventures of Tom Sawyer",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 53,
+    "title": "Moby-Dick",
+    "author": "Herman Melville"
+  },
+  {
+    "id": 54,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "id": 55,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee"
+  },
+  {
+    "id": 56,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck"
+  },
+  {
+    "id": 57,
+    "title": "Lolita",
+    "author": "Vladimir Nabokov"
+  },
+  {
+    "id": 58,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 59,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "id": 60,
+    "title": "Brave New World",
+    "author": "Aldous Huxley"
+  },
+  {
+    "id": 61,
+    "title": "Ulysses",
+    "author": "James Joyce"
+  },
+  {
+    "id": 62,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë"
+  },
+  {
+    "id": 63,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë"
+  },
+  {
+    "id": 64,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoyevsky"
+  },
+  {
+    "id": 65,
+    "title": "Great Expectations",
+    "author": "Charles Dickens"
+  },
+  {
+    "id": 66,
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf"
+  },
+  {
+    "id": 67,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 68,
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "id": 69,
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner"
+  },
+  {
+    "id": 70,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll"
+  },
+  {
+    "id": 71,
+    "title": "Frankenstein",
+    "author": "Mary Shelley"
+  },
+  {
+    "id": 72,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 73,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger"
+  },
+  {
+    "id": 74,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoyevsky"
+  },
+  {
+    "id": 75,
+    "title": "Catch-22",
+    "author": "Joseph Heller"
+  },
+  {
+    "id": 76,
+    "title": "Adventures of Tom Sawyer",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 77,
+    "title": "Moby-Dick",
+    "author": "Herman Melville"
+  },
+  {
+    "id": 78,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "id": 79,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee"
+  },
+  {
+    "id": 80,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck"
+  },
+  {
+    "id": 81,
+    "title": "Lolita",
+    "author": "Vladimir Nabokov"
+  },
+  {
+    "id": 82,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 83,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "id": 84,
+    "title": "Brave New World",
+    "author": "Aldous Huxley"
+  },
+  {
+    "id": 85,
+    "title": "Ulysses",
+    "author": "James Joyce"
+  },
+  {
+    "id": 86,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë"
+  },
+  {
+    "id": 87,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë"
+  },
+  {
+    "id": 88,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoyevsky"
+  },
+  {
+    "id": 89,
+    "title": "Great Expectations",
+    "author": "Charles Dickens"
+  },
+  {
+    "id": 90,
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf"
+  },
+  {
+    "id": 91,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 92,
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway"
+  }
+]
